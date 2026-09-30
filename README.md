@@ -74,7 +74,19 @@ python main.py
 
 ## Screenshots
 
-Place screenshots of the Dashboard, Hash Generator, Verify Integrity, and History tabs in the `screenshots/` folder for a final report or presentation.
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Hash Generator
+![Hash Generator](screenshots/hash-generator.png)
+
+### Verify Integrity
+![Verify Integrity](screenshots/verify-integrity.png)
+
+### History
+![History](screenshots/history.png)
 
 ## Future Scope
 
