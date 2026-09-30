@@ -1,0 +1,30 @@
+{
+  "files": {
+    "C:\\Users\\hp\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\SNEHAL RESUME.docx": {
+      "name": "SNEHAL RESUME.docx",
+      "path": "C:\\Users\\hp\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\SNEHAL RESUME.docx",
+      "size": 26085,
+      "type": ".docx",
+      "hash": "a3ff08190ebe89faccbdc814ca97d03d4a5ee70c23ef2e0541474b7d09aa12ee",
+      "registered_at": "2026-09-07T13:13:03+05:30"
+    }
+  },
+  "verifications": [
+    {
+      "path": "C:\\Users\\hp\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\SNEHAL RESUME.docx",
+      "name": "SNEHAL RESUME.docx",
+      "original_hash": "a3ff08190ebe89faccbdc814ca97d03d4a5ee70c23ef2e0541474b7d09aa12ee",
+      "current_hash": "a3ff08190ebe89faccbdc814ca97d03d4a5ee70c23ef2e0541474b7d09aa12ee",
+      "status": "verified",
+      "verified_at": "2026-09-07T13:14:31+05:30"
+    },
+    {
+      "path": "C:\\Users\\hp\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\SNEHAL RESUME.docx",
+      "name": "SNEHAL RESUME.docx",
+      "original_hash": "a3ff08190ebe89faccbdc814ca97d03d4a5ee70c23ef2e0541474b7d09aa12ee",
+      "current_hash": "a3ff08190ebe89faccbdc814ca97d03d4a5ee70c23ef2e0541474b7d09aa12ee",
+      "status": "verified",
+      "verified_at": "2026-09-07T13:14:19+05:30"
+    }
+  ]
+}
