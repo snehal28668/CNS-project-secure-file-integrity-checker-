@@ -90,4 +90,4 @@ Secure File Integrity Checker provides a practical demonstration of how SHA-256 
 
 ## GitHub Repository
 
-Add the repository URL here after publishing the project to GitHub.
+https://github.com/snehal28668/CNS-project-secure-file-integrity-checker-.git
