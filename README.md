@@ -72,7 +72,7 @@ python main.py
 6. A changed hash displays `File Integrity Compromised - File Modified`, including both hashes.
 7. Review all baselines and verification events in **History** and summary counts in **Dashboard**.
 
-## Screenshots
+
 
 ## Screenshots
 
